@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FadedAditya 
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Python
 - 📫 How to reach me vishwakarmaaditya03@gmail.com
 
 <!---
